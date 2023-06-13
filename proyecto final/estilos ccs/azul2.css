@@ -1,0 +1,17 @@
+body{
+	background-repeat: no-repeat;
+	backgroung-size: cover;
+}
+
+
+h1 {
+ color: blue;
+ margin: center 20px;
+ font-size: 26px;
+}
+p{ 
+ font-family: "comic sans MS";
+ font size:26px;
+ color:green;
+ line-height: 50px;
+}
